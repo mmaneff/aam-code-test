@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aam-code-test"
+    }
+  },
+  "defaultProject": "aam-code-test",
+  "cli": {
+    "analytics": false
+  }
 }
